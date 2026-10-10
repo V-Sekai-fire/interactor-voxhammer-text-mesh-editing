@@ -21,4 +21,4 @@ The `worker` stage builds on the backbone's base image, which is built first.
 
 ## Licence
 
-The taskweft domain files are MIT by their SPDX headers. The repository has no licence file and states none for the rest.
+MIT. See [LICENSE](LICENSE).
